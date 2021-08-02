@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDMDDAT6H664QIXC6EWOFG43ADQ42TXSYXPANWBJP2SEOC4H6NPESLV7"
+"GB2Y3MLE47YDGFOAK5E5GE4SJDWBM2GFJFWMOX3PHC3GLTF2XNVLZ642"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="forbesxlm"
-ORG_URL="https://www.forbesxlm.org"
-ORG_DESCRIPTION="ForbesXLM is a token related to Forbes magazine, an American business magazine owned by Integrated Whale Media Investments and the Forbes family."
-ORG_TWITTER="@forbesxlm"
-ORG_LOGO="https://i.ibb.co/zSP7dfd/forbesxlm.jpg"
-ORG_OFFICIAL_EMAIL="forbesxlm@gmail.com"
+ORG_NAME="marijuananft"
+ORG_URL="https://www.marijuananft.org"
+ORG_DESCRIPTION="Marijuana, also known as cannabis among other names, is a psychoactive drug from the Cannabis plant."
+ORG_TWITTER="@marijuananft"
+ORG_LOGO="https://i.ibb.co/xgBwfWw/nft.jpg"
+ORG_OFFICIAL_EMAIL="marijuananft@gmail.com"
 
 
 [[CURRENCIES]]
-code="ForbesXLM"
-issuer="GDMDDAT6H664QIXC6EWOFG43ADQ42TXSYXPANWBJP2SEOC4H6NPESLV7"
+code="MarijuanaNFT"
+issuer="GB2Y3MLE47YDGFOAK5E5GE4SJDWBM2GFJFWMOX3PHC3GLTF2XNVLZ642"
 anchor_asset="false"
-name="Forbes XLM"
-desc="ForbesXLM is a token related to Forbes magazine, an American business magazine owned by Integrated Whale Media Investments and the Forbes family."
+name="Marijuana NFT"
+desc="Marijuana, also known as cannabis among other names, is a psychoactive drug from the Cannabis plant."
 conditions=""
-image="https://i.ibb.co/zSP7dfd/forbesxlm.jpg"
+image="https://i.ibb.co/xgBwfWw/nft.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#ForbesXLM was issued using the open and inclusive Stellar blockchain network.
+#MarijuanaNFT was issued using the open and inclusive Stellar blockchain network.

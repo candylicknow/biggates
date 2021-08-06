@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GB2Y3MLE47YDGFOAK5E5GE4SJDWBM2GFJFWMOX3PHC3GLTF2XNVLZ642"
+"GBEITDCFAGGBBQWVS56LXKK6PJ2PFJRFTBOJEPXOMUWNR2VRJ74DXTSF"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="marijuananft"
-ORG_URL="https://www.marijuananft.org"
-ORG_DESCRIPTION="Marijuana, also known as cannabis among other names, is a psychoactive drug from the Cannabis plant."
-ORG_TWITTER="@marijuananft"
-ORG_LOGO="https://i.ibb.co/xgBwfWw/nft.jpg"
-ORG_OFFICIAL_EMAIL="marijuananft@gmail.com"
+ORG_NAME="pubcoin"
+ORG_URL="https://www.pubcoin.org"
+ORG_DESCRIPTION="A pub (short for public house) is an establishment licensed to serve alcoholic drinks for consumption on the premises."
+ORG_TWITTER="@pubcoin"
+ORG_LOGO="https://i.ibb.co/pJ8wk5r/Cheers-text-Two-toasting-beer-mugs-Clinking-glass-tankards-full-of-beer-and-splashed-foam-Design-ele.jpg"
+ORG_OFFICIAL_EMAIL="pubcoin@gmail.com"
 
 
 [[CURRENCIES]]
-code="MarijuanaNFT"
-issuer="GB2Y3MLE47YDGFOAK5E5GE4SJDWBM2GFJFWMOX3PHC3GLTF2XNVLZ642"
+code="PubCoin"
+issuer="GBEITDCFAGGBBQWVS56LXKK6PJ2PFJRFTBOJEPXOMUWNR2VRJ74DXTSF"
 anchor_asset="false"
-name="Marijuana NFT"
-desc="Marijuana, also known as cannabis among other names, is a psychoactive drug from the Cannabis plant."
+name="Pub Coin"
+desc="A pub (short for public house) is an establishment licensed to serve alcoholic drinks for consumption on the premises."
 conditions=""
-image="https://i.ibb.co/xgBwfWw/nft.jpg"
+image="https://i.ibb.co/pJ8wk5r/Cheers-text-Two-toasting-beer-mugs-Clinking-glass-tankards-full-of-beer-and-splashed-foam-Design-ele.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#MarijuanaNFT was issued using the open and inclusive Stellar blockchain network.
+#PubCoin was issued using the open and inclusive Stellar blockchain network.

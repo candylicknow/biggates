@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBEITDCFAGGBBQWVS56LXKK6PJ2PFJRFTBOJEPXOMUWNR2VRJ74DXTSF"
+"GBKYU4MM2EYK2BCZAZ24UXBUOZZXGTT6E6CFOGU7P7FS6VV5FBGMTXQC"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="pubcoin"
-ORG_URL="https://www.pubcoin.org"
-ORG_DESCRIPTION="A pub (short for public house) is an establishment licensed to serve alcoholic drinks for consumption on the premises."
-ORG_TWITTER="@pubcoin"
-ORG_LOGO="https://i.ibb.co/pJ8wk5r/Cheers-text-Two-toasting-beer-mugs-Clinking-glass-tankards-full-of-beer-and-splashed-foam-Design-ele.jpg"
-ORG_OFFICIAL_EMAIL="pubcoin@gmail.com"
+ORG_NAME="olympusxlm"
+ORG_URL="https://www.olympusxlm.org"
+ORG_DESCRIPTION="The modern Olympic Games or Olympics are leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions."
+ORG_TWITTER="@olympusxlm"
+ORG_LOGO="https://i.ibb.co/Jn086G6/OLYMPUSXLM.png"
+ORG_OFFICIAL_EMAIL="olympusxlm@gmail.com"
 
 
 [[CURRENCIES]]
-code="PubCoin"
-issuer="GBEITDCFAGGBBQWVS56LXKK6PJ2PFJRFTBOJEPXOMUWNR2VRJ74DXTSF"
+code="OlympusXLM"
+issuer="GBKYU4MM2EYK2BCZAZ24UXBUOZZXGTT6E6CFOGU7P7FS6VV5FBGMTXQC"
 anchor_asset="false"
-name="Pub Coin"
-desc="A pub (short for public house) is an establishment licensed to serve alcoholic drinks for consumption on the premises."
+name="Olympus XLM"
+desc="The modern Olympic Games or Olympics are leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions."
 conditions=""
-image="https://i.ibb.co/pJ8wk5r/Cheers-text-Two-toasting-beer-mugs-Clinking-glass-tankards-full-of-beer-and-splashed-foam-Design-ele.jpg"
-fixed_number=10000000
-max_number=10000000
+image="https://i.ibb.co/Jn086G6/OLYMPUSXLM.png"
+fixed_number=1000000
+max_number=1000000
 is_unlimited=false
-#PubCoin was issued using the open and inclusive Stellar blockchain network.
+#OlympusXLM was issued using the open and inclusive Stellar blockchain network.

@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBKYU4MM2EYK2BCZAZ24UXBUOZZXGTT6E6CFOGU7P7FS6VV5FBGMTXQC"
+"GCTJYWM3DOI6XUN46QITZLYCV4SVWZB4LMEANFYTMCKZGTQIL33ZVJEC"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="olympusxlm"
-ORG_URL="https://www.olympusxlm.org"
-ORG_DESCRIPTION="The modern Olympic Games or Olympics are leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions."
-ORG_TWITTER="@olympusxlm"
-ORG_LOGO="https://i.ibb.co/Jn086G6/OLYMPUSXLM.png"
-ORG_OFFICIAL_EMAIL="olympusxlm@gmail.com"
+ORG_NAME="biggates"
+ORG_URL="https://www.biggates.org"
+ORG_DESCRIPTION=""
+ORG_TWITTER="@biggates"
+ORG_LOGO="https://i.ibb.co/6bNQSxt/The-gates-to-heaven-opening-under-an-ethereal-light.jpg"
+ORG_OFFICIAL_EMAIL="biggates@gmail.com"
 
 
 [[CURRENCIES]]
-code="OlympusXLM"
-issuer="GBKYU4MM2EYK2BCZAZ24UXBUOZZXGTT6E6CFOGU7P7FS6VV5FBGMTXQC"
+code="BigGates"
+issuer="GCTJYWM3DOI6XUN46QITZLYCV4SVWZB4LMEANFYTMCKZGTQIL33ZVJEC"
 anchor_asset="false"
-name="Olympus XLM"
-desc="The modern Olympic Games or Olympics are leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions."
+name="Big Gates"
+desc=""
 conditions=""
-image="https://i.ibb.co/Jn086G6/OLYMPUSXLM.png"
+image="https://i.ibb.co/6bNQSxt/The-gates-to-heaven-opening-under-an-ethereal-light.jpg"
 fixed_number=1000000
 max_number=1000000
 is_unlimited=false
-#OlympusXLM was issued using the open and inclusive Stellar blockchain network.
+#BigGates was issued using the open and inclusive Stellar blockchain network.
